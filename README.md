@@ -1,5 +1,13 @@
-# 8MS-ESP32S2
+# 8ms ESP32
 
-开发环境：esp-idf v4.3
-运行环境：esp32s2
+8ms ESP32 project
+
+# prepare ESP32 v4.1 SDK
+
+please refr to https://docs.espressif.com/projects/esp-idf/zh_CN/release-v4.1/get-started/index.html
+
+# build project
+
+idf.py build
+
 

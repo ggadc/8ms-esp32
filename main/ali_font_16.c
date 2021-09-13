@@ -3,7 +3,7 @@
 /*******************************************************************************
  * Size: 16 px
  * Bpp: 4
- * Opts: --font /root/hmi_esp32/hmi/aliph.ttf -r 0x20-0x7F --symbols 启明 --size 16 --format lvgl --bpp 4 --no-compress -o ali_font_16.c
+ * Opts: --font /Users/xiabin/work/hardware/hmi/hmi_template/aliph.ttf -r 0x20-0x7F --symbols 启明 --size 16 --format lvgl --bpp 4 --no-compress -o ali_font_16.c
  ******************************************************************************/
 
 #ifndef ALI_FONT_16
